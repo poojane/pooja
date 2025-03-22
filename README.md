@@ -6,7 +6,7 @@
 - 🔄 **API Testing**: Postman
 - 💻 **Programming**: TypeScript, Java, JavaScript  
 - 📚 **Frameworks & Tools**: Jest
-- 🔧 **CI/CD & Version Control**: Git, GitHub Actions
+- 🔧 **CI/CD & Version Control**: Git, GitHub Actions 
 - ☁️ **Cloud Testing**: BrowserStack, LambdaTest  
 
 ## 📂 Featured Projects  
